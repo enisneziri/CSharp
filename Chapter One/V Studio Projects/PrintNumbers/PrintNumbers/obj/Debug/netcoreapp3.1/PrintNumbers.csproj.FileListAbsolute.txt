@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\bin\Debug\netcoreapp3.1\PrintNumbers.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\bin\Debug\netcoreapp3.1\PrintNumbers.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\bin\Debug\netcoreapp3.1\PrintNumbers.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\bin\Debug\netcoreapp3.1\PrintNumbers.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\bin\Debug\netcoreapp3.1\PrintNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\bin\Debug\netcoreapp3.1\PrintNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\obj\Debug\netcoreapp3.1\PrintNumbers.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\obj\Debug\netcoreapp3.1\PrintNumbers.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\obj\Debug\netcoreapp3.1\PrintNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\obj\Debug\netcoreapp3.1\PrintNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\obj\Debug\netcoreapp3.1\PrintNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\PrintNumbers\PrintNumbers\obj\Debug\netcoreapp3.1\PrintNumbers.genruntimeconfig.cache

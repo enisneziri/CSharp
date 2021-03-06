@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\bin\Debug\netcoreapp3.1\GoodDay.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\bin\Debug\netcoreapp3.1\GoodDay.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\bin\Debug\netcoreapp3.1\GoodDay.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\bin\Debug\netcoreapp3.1\GoodDay.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\bin\Debug\netcoreapp3.1\GoodDay.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\bin\Debug\netcoreapp3.1\GoodDay.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\obj\Debug\netcoreapp3.1\GoodDay.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\obj\Debug\netcoreapp3.1\GoodDay.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\obj\Debug\netcoreapp3.1\GoodDay.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\obj\Debug\netcoreapp3.1\GoodDay.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\obj\Debug\netcoreapp3.1\GoodDay.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\obj\Debug\netcoreapp3.1\GoodDay.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\GoodDay\GoodDay\obj\Debug\netcoreapp3.1\GoodDay.genruntimeconfig.cache

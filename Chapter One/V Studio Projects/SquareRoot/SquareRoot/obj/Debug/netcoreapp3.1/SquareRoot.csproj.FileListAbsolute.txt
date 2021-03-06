@@ -1,0 +1,26 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\SquareRoot\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache
