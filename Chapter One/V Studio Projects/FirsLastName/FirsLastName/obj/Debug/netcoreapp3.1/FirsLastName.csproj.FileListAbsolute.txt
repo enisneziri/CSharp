@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\bin\Debug\netcoreapp3.1\FirsLastName.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\bin\Debug\netcoreapp3.1\FirsLastName.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\bin\Debug\netcoreapp3.1\FirsLastName.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\bin\Debug\netcoreapp3.1\FirsLastName.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\bin\Debug\netcoreapp3.1\FirsLastName.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\bin\Debug\netcoreapp3.1\FirsLastName.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\obj\Debug\netcoreapp3.1\FirsLastName.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\obj\Debug\netcoreapp3.1\FirsLastName.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\obj\Debug\netcoreapp3.1\FirsLastName.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\obj\Debug\netcoreapp3.1\FirsLastName.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\obj\Debug\netcoreapp3.1\FirsLastName.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\obj\Debug\netcoreapp3.1\FirsLastName.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\V Studio Folders\FirsLastName\FirsLastName\obj\Debug\netcoreapp3.1\FirsLastName.genruntimeconfig.cache
