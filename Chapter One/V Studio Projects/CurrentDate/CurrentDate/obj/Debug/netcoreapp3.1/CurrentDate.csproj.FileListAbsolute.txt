@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\obj\Debug\netcoreapp3.1\CurrentDate.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\obj\Debug\netcoreapp3.1\CurrentDate.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\obj\Debug\netcoreapp3.1\CurrentDate.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\obj\Debug\netcoreapp3.1\CurrentDate.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\bin\Debug\netcoreapp3.1\CurrentDate.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\bin\Debug\netcoreapp3.1\CurrentDate.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\bin\Debug\netcoreapp3.1\CurrentDate.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\bin\Debug\netcoreapp3.1\CurrentDate.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\bin\Debug\netcoreapp3.1\CurrentDate.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\bin\Debug\netcoreapp3.1\CurrentDate.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\obj\Debug\netcoreapp3.1\CurrentDate.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\obj\Debug\netcoreapp3.1\CurrentDate.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CurrentDate\CurrentDate\obj\Debug\netcoreapp3.1\CurrentDate.genruntimeconfig.cache

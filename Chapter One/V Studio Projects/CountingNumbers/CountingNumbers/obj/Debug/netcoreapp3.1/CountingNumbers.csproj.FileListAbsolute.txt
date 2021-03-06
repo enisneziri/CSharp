@@ -1,0 +1,26 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\HTPW\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\bin\Debug\netcoreapp3.1\CountingNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter One\CountingNumbers\CountingNumbers\obj\Debug\netcoreapp3.1\CountingNumbers.genruntimeconfig.cache
