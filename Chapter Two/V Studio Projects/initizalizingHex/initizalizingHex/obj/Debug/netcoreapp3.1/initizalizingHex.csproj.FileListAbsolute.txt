@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\bin\Debug\netcoreapp3.1\initizalizingHex.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\bin\Debug\netcoreapp3.1\initizalizingHex.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\bin\Debug\netcoreapp3.1\initizalizingHex.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\bin\Debug\netcoreapp3.1\initizalizingHex.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\bin\Debug\netcoreapp3.1\initizalizingHex.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\bin\Debug\netcoreapp3.1\initizalizingHex.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\obj\Debug\netcoreapp3.1\initizalizingHex.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\obj\Debug\netcoreapp3.1\initizalizingHex.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\obj\Debug\netcoreapp3.1\initizalizingHex.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\obj\Debug\netcoreapp3.1\initizalizingHex.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\obj\Debug\netcoreapp3.1\initizalizingHex.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\obj\Debug\netcoreapp3.1\initizalizingHex.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\initizalizingHex\initizalizingHex\obj\Debug\netcoreapp3.1\initizalizingHex.genruntimeconfig.cache

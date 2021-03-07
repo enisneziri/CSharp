@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\bin\Debug\netcoreapp3.1\floatAndDouble.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\bin\Debug\netcoreapp3.1\floatAndDouble.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\bin\Debug\netcoreapp3.1\floatAndDouble.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\bin\Debug\netcoreapp3.1\floatAndDouble.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\bin\Debug\netcoreapp3.1\floatAndDouble.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\bin\Debug\netcoreapp3.1\floatAndDouble.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\obj\Debug\netcoreapp3.1\floatAndDouble.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\obj\Debug\netcoreapp3.1\floatAndDouble.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\obj\Debug\netcoreapp3.1\floatAndDouble.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\obj\Debug\netcoreapp3.1\floatAndDouble.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\obj\Debug\netcoreapp3.1\floatAndDouble.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\obj\Debug\netcoreapp3.1\floatAndDouble.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\floatAndDouble\floatAndDouble\obj\Debug\netcoreapp3.1\floatAndDouble.genruntimeconfig.cache
