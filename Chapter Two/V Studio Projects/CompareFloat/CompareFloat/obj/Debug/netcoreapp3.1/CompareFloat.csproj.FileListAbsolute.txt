@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\bin\Debug\netcoreapp3.1\CompareFloat.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\bin\Debug\netcoreapp3.1\CompareFloat.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\bin\Debug\netcoreapp3.1\CompareFloat.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\bin\Debug\netcoreapp3.1\CompareFloat.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\bin\Debug\netcoreapp3.1\CompareFloat.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\bin\Debug\netcoreapp3.1\CompareFloat.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\obj\Debug\netcoreapp3.1\CompareFloat.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\obj\Debug\netcoreapp3.1\CompareFloat.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\obj\Debug\netcoreapp3.1\CompareFloat.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\obj\Debug\netcoreapp3.1\CompareFloat.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\obj\Debug\netcoreapp3.1\CompareFloat.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\obj\Debug\netcoreapp3.1\CompareFloat.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CompareFloat\CompareFloat\obj\Debug\netcoreapp3.1\CompareFloat.genruntimeconfig.cache

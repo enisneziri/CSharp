@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\bin\Debug\netcoreapp3.1\CharType.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\bin\Debug\netcoreapp3.1\CharType.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\bin\Debug\netcoreapp3.1\CharType.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\bin\Debug\netcoreapp3.1\CharType.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\bin\Debug\netcoreapp3.1\CharType.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\bin\Debug\netcoreapp3.1\CharType.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\obj\Debug\netcoreapp3.1\CharType.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\obj\Debug\netcoreapp3.1\CharType.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\obj\Debug\netcoreapp3.1\CharType.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\obj\Debug\netcoreapp3.1\CharType.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\obj\Debug\netcoreapp3.1\CharType.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\obj\Debug\netcoreapp3.1\CharType.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\CharType\CharType\obj\Debug\netcoreapp3.1\CharType.genruntimeconfig.cache
