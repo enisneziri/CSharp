@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\bin\Debug\netcoreapp3.1\stringObject.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\bin\Debug\netcoreapp3.1\stringObject.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\bin\Debug\netcoreapp3.1\stringObject.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\bin\Debug\netcoreapp3.1\stringObject.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\bin\Debug\netcoreapp3.1\stringObject.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\bin\Debug\netcoreapp3.1\stringObject.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\obj\Debug\netcoreapp3.1\stringObject.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\obj\Debug\netcoreapp3.1\stringObject.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\obj\Debug\netcoreapp3.1\stringObject.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\obj\Debug\netcoreapp3.1\stringObject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\obj\Debug\netcoreapp3.1\stringObject.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\obj\Debug\netcoreapp3.1\stringObject.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\stringObject\stringObject\obj\Debug\netcoreapp3.1\stringObject.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\bin\Debug\netcoreapp3.1\printingHeart.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\bin\Debug\netcoreapp3.1\printingHeart.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\bin\Debug\netcoreapp3.1\printingHeart.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\bin\Debug\netcoreapp3.1\printingHeart.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\bin\Debug\netcoreapp3.1\printingHeart.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\bin\Debug\netcoreapp3.1\printingHeart.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\obj\Debug\netcoreapp3.1\printingHeart.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\obj\Debug\netcoreapp3.1\printingHeart.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\obj\Debug\netcoreapp3.1\printingHeart.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\obj\Debug\netcoreapp3.1\printingHeart.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\obj\Debug\netcoreapp3.1\printingHeart.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\obj\Debug\netcoreapp3.1\printingHeart.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter Two\V Studio Projects\printingHeart\printingHeart\obj\Debug\netcoreapp3.1\printingHeart.genruntimeconfig.cache
