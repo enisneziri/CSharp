@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\bin\Debug\netcoreapp3.1\11 bitWise.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\bin\Debug\netcoreapp3.1\11 bitWise.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\bin\Debug\netcoreapp3.1\11 bitWise.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\bin\Debug\netcoreapp3.1\11 bitWise.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\bin\Debug\netcoreapp3.1\11 bitWise.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\bin\Debug\netcoreapp3.1\11 bitWise.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\obj\Debug\netcoreapp3.1\11 bitWise.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\obj\Debug\netcoreapp3.1\11 bitWise.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\obj\Debug\netcoreapp3.1\11 bitWise.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\obj\Debug\netcoreapp3.1\11 bitWise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\obj\Debug\netcoreapp3.1\11 bitWise.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\obj\Debug\netcoreapp3.1\11 bitWise.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\11 bitWise\11 bitWise\obj\Debug\netcoreapp3.1\11 bitWise.genruntimeconfig.cache
