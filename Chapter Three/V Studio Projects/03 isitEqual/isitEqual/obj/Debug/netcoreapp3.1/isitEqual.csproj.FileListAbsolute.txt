@@ -1,0 +1,26 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\bin\Debug\netcoreapp3.1\isitEqual.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\03 isitEqual\isitEqual\obj\Debug\netcoreapp3.1\isitEqual.genruntimeconfig.cache

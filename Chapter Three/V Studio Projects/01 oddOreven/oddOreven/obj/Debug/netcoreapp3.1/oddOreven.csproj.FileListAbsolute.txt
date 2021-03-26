@@ -1,0 +1,26 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\bin\Debug\netcoreapp3.1\oddOreven.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\01 oddOreven\oddOreven\obj\Debug\netcoreapp3.1\oddOreven.genruntimeconfig.cache

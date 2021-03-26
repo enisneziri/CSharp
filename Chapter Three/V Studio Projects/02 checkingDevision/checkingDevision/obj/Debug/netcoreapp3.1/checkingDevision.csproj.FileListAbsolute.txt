@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\bin\Debug\netcoreapp3.1\checkingDevision.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\bin\Debug\netcoreapp3.1\checkingDevision.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\bin\Debug\netcoreapp3.1\checkingDevision.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\bin\Debug\netcoreapp3.1\checkingDevision.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\bin\Debug\netcoreapp3.1\checkingDevision.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\bin\Debug\netcoreapp3.1\checkingDevision.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\obj\Debug\netcoreapp3.1\checkingDevision.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\obj\Debug\netcoreapp3.1\checkingDevision.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\obj\Debug\netcoreapp3.1\checkingDevision.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\obj\Debug\netcoreapp3.1\checkingDevision.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\obj\Debug\netcoreapp3.1\checkingDevision.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\obj\Debug\netcoreapp3.1\checkingDevision.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\checkingDevision\checkingDevision\obj\Debug\netcoreapp3.1\checkingDevision.genruntimeconfig.cache
