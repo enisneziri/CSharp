@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\bin\Debug\netcoreapp3.1\16 exchaningBits.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\bin\Debug\netcoreapp3.1\16 exchaningBits.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\bin\Debug\netcoreapp3.1\16 exchaningBits.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\bin\Debug\netcoreapp3.1\16 exchaningBits.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\bin\Debug\netcoreapp3.1\16 exchaningBits.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\bin\Debug\netcoreapp3.1\16 exchaningBits.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\obj\Debug\netcoreapp3.1\16 exchaningBits.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\obj\Debug\netcoreapp3.1\16 exchaningBits.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\obj\Debug\netcoreapp3.1\16 exchaningBits.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\obj\Debug\netcoreapp3.1\16 exchaningBits.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\obj\Debug\netcoreapp3.1\16 exchaningBits.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\obj\Debug\netcoreapp3.1\16 exchaningBits.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\16 exchaningBits\16 exchaningBits\obj\Debug\netcoreapp3.1\16 exchaningBits.genruntimeconfig.cache
