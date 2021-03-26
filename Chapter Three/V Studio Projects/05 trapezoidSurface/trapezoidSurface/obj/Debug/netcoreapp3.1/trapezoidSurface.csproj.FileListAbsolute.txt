@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\bin\Debug\netcoreapp3.1\trapezoidSurface.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\bin\Debug\netcoreapp3.1\trapezoidSurface.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\bin\Debug\netcoreapp3.1\trapezoidSurface.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\bin\Debug\netcoreapp3.1\trapezoidSurface.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\bin\Debug\netcoreapp3.1\trapezoidSurface.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\bin\Debug\netcoreapp3.1\trapezoidSurface.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\obj\Debug\netcoreapp3.1\trapezoidSurface.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\obj\Debug\netcoreapp3.1\trapezoidSurface.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\obj\Debug\netcoreapp3.1\trapezoidSurface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\obj\Debug\netcoreapp3.1\trapezoidSurface.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\obj\Debug\netcoreapp3.1\trapezoidSurface.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\trapezoidSurface\trapezoidSurface\obj\Debug\netcoreapp3.1\trapezoidSurface.genruntimeconfig.cache

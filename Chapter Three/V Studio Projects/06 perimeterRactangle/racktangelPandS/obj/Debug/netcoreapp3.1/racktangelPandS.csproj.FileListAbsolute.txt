@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\bin\Debug\netcoreapp3.1\racktangelPandS.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\bin\Debug\netcoreapp3.1\racktangelPandS.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\bin\Debug\netcoreapp3.1\racktangelPandS.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\bin\Debug\netcoreapp3.1\racktangelPandS.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\bin\Debug\netcoreapp3.1\racktangelPandS.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\bin\Debug\netcoreapp3.1\racktangelPandS.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\obj\Debug\netcoreapp3.1\racktangelPandS.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\obj\Debug\netcoreapp3.1\racktangelPandS.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\obj\Debug\netcoreapp3.1\racktangelPandS.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\obj\Debug\netcoreapp3.1\racktangelPandS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\obj\Debug\netcoreapp3.1\racktangelPandS.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\obj\Debug\netcoreapp3.1\racktangelPandS.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\racktangelPandS\racktangelPandS\obj\Debug\netcoreapp3.1\racktangelPandS.genruntimeconfig.cache
