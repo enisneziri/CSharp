@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\bin\Debug\netcoreapp3.1\05 checkingEvery5.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\bin\Debug\netcoreapp3.1\05 checkingEvery5.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\bin\Debug\netcoreapp3.1\05 checkingEvery5.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\bin\Debug\netcoreapp3.1\05 checkingEvery5.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\bin\Debug\netcoreapp3.1\05 checkingEvery5.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\bin\Debug\netcoreapp3.1\05 checkingEvery5.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\obj\Debug\netcoreapp3.1\05 checkingEvery5.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\obj\Debug\netcoreapp3.1\05 checkingEvery5.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\obj\Debug\netcoreapp3.1\05 checkingEvery5.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\obj\Debug\netcoreapp3.1\05 checkingEvery5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\obj\Debug\netcoreapp3.1\05 checkingEvery5.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\obj\Debug\netcoreapp3.1\05 checkingEvery5.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\05 checkingEvery5\05 checkingEvery5\obj\Debug\netcoreapp3.1\05 checkingEvery5.genruntimeconfig.cache
