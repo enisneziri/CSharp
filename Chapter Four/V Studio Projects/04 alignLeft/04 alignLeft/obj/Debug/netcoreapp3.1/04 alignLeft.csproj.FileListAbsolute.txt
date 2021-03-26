@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\bin\Debug\netcoreapp3.1\04 alignLeft.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\bin\Debug\netcoreapp3.1\04 alignLeft.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\bin\Debug\netcoreapp3.1\04 alignLeft.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\bin\Debug\netcoreapp3.1\04 alignLeft.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\bin\Debug\netcoreapp3.1\04 alignLeft.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\bin\Debug\netcoreapp3.1\04 alignLeft.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\obj\Debug\netcoreapp3.1\04 alignLeft.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\obj\Debug\netcoreapp3.1\04 alignLeft.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\obj\Debug\netcoreapp3.1\04 alignLeft.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\obj\Debug\netcoreapp3.1\04 alignLeft.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\obj\Debug\netcoreapp3.1\04 alignLeft.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\obj\Debug\netcoreapp3.1\04 alignLeft.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\04 alignLeft\04 alignLeft\obj\Debug\netcoreapp3.1\04 alignLeft.genruntimeconfig.cache

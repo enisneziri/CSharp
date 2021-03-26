@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\bin\Debug\netcoreapp3.1\02 circleArea.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\bin\Debug\netcoreapp3.1\02 circleArea.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\bin\Debug\netcoreapp3.1\02 circleArea.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\bin\Debug\netcoreapp3.1\02 circleArea.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\bin\Debug\netcoreapp3.1\02 circleArea.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\bin\Debug\netcoreapp3.1\02 circleArea.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\obj\Debug\netcoreapp3.1\02 circleArea.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\obj\Debug\netcoreapp3.1\02 circleArea.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\obj\Debug\netcoreapp3.1\02 circleArea.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\obj\Debug\netcoreapp3.1\02 circleArea.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\obj\Debug\netcoreapp3.1\02 circleArea.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\02 circleArea\02 circleArea\obj\Debug\netcoreapp3.1\02 circleArea.genruntimeconfig.cache
