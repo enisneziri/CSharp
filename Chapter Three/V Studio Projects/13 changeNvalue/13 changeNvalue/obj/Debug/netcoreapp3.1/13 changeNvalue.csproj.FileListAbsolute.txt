@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\bin\Debug\netcoreapp3.1\13 changeNvalue.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\bin\Debug\netcoreapp3.1\13 changeNvalue.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\bin\Debug\netcoreapp3.1\13 changeNvalue.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\bin\Debug\netcoreapp3.1\13 changeNvalue.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\bin\Debug\netcoreapp3.1\13 changeNvalue.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\bin\Debug\netcoreapp3.1\13 changeNvalue.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\obj\Debug\netcoreapp3.1\13 changeNvalue.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\obj\Debug\netcoreapp3.1\13 changeNvalue.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\obj\Debug\netcoreapp3.1\13 changeNvalue.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\obj\Debug\netcoreapp3.1\13 changeNvalue.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\obj\Debug\netcoreapp3.1\13 changeNvalue.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\obj\Debug\netcoreapp3.1\13 changeNvalue.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 3\V Studio Projects\13 changeNvalue\13 changeNvalue\obj\Debug\netcoreapp3.1\13 changeNvalue.genruntimeconfig.cache
