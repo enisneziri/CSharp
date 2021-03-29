@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\bin\Debug\netcoreapp3.1\11 lengthIneger.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\bin\Debug\netcoreapp3.1\11 lengthIneger.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\bin\Debug\netcoreapp3.1\11 lengthIneger.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\bin\Debug\netcoreapp3.1\11 lengthIneger.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\bin\Debug\netcoreapp3.1\11 lengthIneger.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\bin\Debug\netcoreapp3.1\11 lengthIneger.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\obj\Debug\netcoreapp3.1\11 lengthIneger.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\obj\Debug\netcoreapp3.1\11 lengthIneger.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\obj\Debug\netcoreapp3.1\11 lengthIneger.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\obj\Debug\netcoreapp3.1\11 lengthIneger.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\obj\Debug\netcoreapp3.1\11 lengthIneger.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\obj\Debug\netcoreapp3.1\11 lengthIneger.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\11 lengthIneger\11 lengthIneger\obj\Debug\netcoreapp3.1\11 lengthIneger.genruntimeconfig.cache

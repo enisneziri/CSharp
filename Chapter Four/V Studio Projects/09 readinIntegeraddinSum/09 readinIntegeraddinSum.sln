@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 readinIntegeraddinSum", "09 readinIntegeraddinSum\09 readinIntegeraddinSum.csproj", "{D1681DD8-46F2-4323-9D81-D2BF21EF232B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1681DD8-46F2-4323-9D81-D2BF21EF232B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1681DD8-46F2-4323-9D81-D2BF21EF232B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1681DD8-46F2-4323-9D81-D2BF21EF232B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1681DD8-46F2-4323-9D81-D2BF21EF232B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638F2246-A531-4AD5-ACC6-9C26DCF2112B}
+	EndGlobalSection
+EndGlobal

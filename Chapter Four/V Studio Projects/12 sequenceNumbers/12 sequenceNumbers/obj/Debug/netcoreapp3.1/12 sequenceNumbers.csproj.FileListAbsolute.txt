@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\bin\Debug\netcoreapp3.1\12 sequenceNumbers.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\bin\Debug\netcoreapp3.1\12 sequenceNumbers.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\bin\Debug\netcoreapp3.1\12 sequenceNumbers.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\bin\Debug\netcoreapp3.1\12 sequenceNumbers.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\bin\Debug\netcoreapp3.1\12 sequenceNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\bin\Debug\netcoreapp3.1\12 sequenceNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\obj\Debug\netcoreapp3.1\12 sequenceNumbers.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\obj\Debug\netcoreapp3.1\12 sequenceNumbers.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\obj\Debug\netcoreapp3.1\12 sequenceNumbers.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\obj\Debug\netcoreapp3.1\12 sequenceNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\obj\Debug\netcoreapp3.1\12 sequenceNumbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\obj\Debug\netcoreapp3.1\12 sequenceNumbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\12 sequenceNumbers\12 sequenceNumbers\obj\Debug\netcoreapp3.1\12 sequenceNumbers.genruntimeconfig.cache

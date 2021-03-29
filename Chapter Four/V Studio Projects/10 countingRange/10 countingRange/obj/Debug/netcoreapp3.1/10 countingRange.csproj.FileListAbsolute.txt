@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\bin\Debug\netcoreapp3.1\10 countingRange.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\bin\Debug\netcoreapp3.1\10 countingRange.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\bin\Debug\netcoreapp3.1\10 countingRange.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\bin\Debug\netcoreapp3.1\10 countingRange.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\bin\Debug\netcoreapp3.1\10 countingRange.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\bin\Debug\netcoreapp3.1\10 countingRange.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\obj\Debug\netcoreapp3.1\10 countingRange.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\obj\Debug\netcoreapp3.1\10 countingRange.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\obj\Debug\netcoreapp3.1\10 countingRange.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\obj\Debug\netcoreapp3.1\10 countingRange.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\obj\Debug\netcoreapp3.1\10 countingRange.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 4\10 countingRange\10 countingRange\obj\Debug\netcoreapp3.1\10 countingRange.genruntimeconfig.cache
