@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\bin\Debug\netcoreapp3.1\02 checking9numbers.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\bin\Debug\netcoreapp3.1\02 checking9numbers.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\bin\Debug\netcoreapp3.1\02 checking9numbers.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\bin\Debug\netcoreapp3.1\02 checking9numbers.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\bin\Debug\netcoreapp3.1\02 checking9numbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\bin\Debug\netcoreapp3.1\02 checking9numbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\obj\Debug\netcoreapp3.1\02 checking9numbers.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\obj\Debug\netcoreapp3.1\02 checking9numbers.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\obj\Debug\netcoreapp3.1\02 checking9numbers.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\obj\Debug\netcoreapp3.1\02 checking9numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\obj\Debug\netcoreapp3.1\02 checking9numbers.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\obj\Debug\netcoreapp3.1\02 checking9numbers.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\02 checking9numbers\02 checking9numbers\obj\Debug\netcoreapp3.1\02 checking9numbers.genruntimeconfig.cache

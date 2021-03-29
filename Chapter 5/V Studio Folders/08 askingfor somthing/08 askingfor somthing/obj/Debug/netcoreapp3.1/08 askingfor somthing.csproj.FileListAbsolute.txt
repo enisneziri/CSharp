@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\obj\Debug\netcoreapp3.1\08 askingfor somthing.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\obj\Debug\netcoreapp3.1\08 askingfor somthing.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\obj\Debug\netcoreapp3.1\08 askingfor somthing.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\obj\Debug\netcoreapp3.1\08 askingfor somthing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\bin\Debug\netcoreapp3.1\08 askingfor somthing.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\bin\Debug\netcoreapp3.1\08 askingfor somthing.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\bin\Debug\netcoreapp3.1\08 askingfor somthing.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\bin\Debug\netcoreapp3.1\08 askingfor somthing.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\bin\Debug\netcoreapp3.1\08 askingfor somthing.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\bin\Debug\netcoreapp3.1\08 askingfor somthing.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\obj\Debug\netcoreapp3.1\08 askingfor somthing.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\obj\Debug\netcoreapp3.1\08 askingfor somthing.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\08 askingfor somthing\08 askingfor somthing\obj\Debug\netcoreapp3.1\08 askingfor somthing.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\obj\Debug\netcoreapp3.1\07 5NUMBERS.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\obj\Debug\netcoreapp3.1\07 5NUMBERS.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\obj\Debug\netcoreapp3.1\07 5NUMBERS.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\obj\Debug\netcoreapp3.1\07 5NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\bin\Debug\netcoreapp3.1\07 5NUMBERS.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\bin\Debug\netcoreapp3.1\07 5NUMBERS.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\bin\Debug\netcoreapp3.1\07 5NUMBERS.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\bin\Debug\netcoreapp3.1\07 5NUMBERS.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\bin\Debug\netcoreapp3.1\07 5NUMBERS.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\bin\Debug\netcoreapp3.1\07 5NUMBERS.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\obj\Debug\netcoreapp3.1\07 5NUMBERS.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\obj\Debug\netcoreapp3.1\07 5NUMBERS.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\07 5NUMBERS\07 5NUMBERS\obj\Debug\netcoreapp3.1\07 5NUMBERS.genruntimeconfig.cache
