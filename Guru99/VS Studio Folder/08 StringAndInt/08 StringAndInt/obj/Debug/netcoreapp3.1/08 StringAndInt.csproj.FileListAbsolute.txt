@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\bin\Debug\netcoreapp3.1\08 StringAndInt.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\bin\Debug\netcoreapp3.1\08 StringAndInt.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\bin\Debug\netcoreapp3.1\08 StringAndInt.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\bin\Debug\netcoreapp3.1\08 StringAndInt.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\bin\Debug\netcoreapp3.1\08 StringAndInt.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\bin\Debug\netcoreapp3.1\08 StringAndInt.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\obj\Debug\netcoreapp3.1\08 StringAndInt.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\obj\Debug\netcoreapp3.1\08 StringAndInt.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\obj\Debug\netcoreapp3.1\08 StringAndInt.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\obj\Debug\netcoreapp3.1\08 StringAndInt.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\obj\Debug\netcoreapp3.1\08 StringAndInt.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\obj\Debug\netcoreapp3.1\08 StringAndInt.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\08 StringAndInt\08 StringAndInt\obj\Debug\netcoreapp3.1\08 StringAndInt.genruntimeconfig.cache

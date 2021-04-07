@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\bin\Debug\netcoreapp3.1\09 IfStatement.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\bin\Debug\netcoreapp3.1\09 IfStatement.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\bin\Debug\netcoreapp3.1\09 IfStatement.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\bin\Debug\netcoreapp3.1\09 IfStatement.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\bin\Debug\netcoreapp3.1\09 IfStatement.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\bin\Debug\netcoreapp3.1\09 IfStatement.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\obj\Debug\netcoreapp3.1\09 IfStatement.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\obj\Debug\netcoreapp3.1\09 IfStatement.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\obj\Debug\netcoreapp3.1\09 IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\obj\Debug\netcoreapp3.1\09 IfStatement.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\obj\Debug\netcoreapp3.1\09 IfStatement.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\09 IfStatement\09 IfStatement\obj\Debug\netcoreapp3.1\09 IfStatement.genruntimeconfig.cache

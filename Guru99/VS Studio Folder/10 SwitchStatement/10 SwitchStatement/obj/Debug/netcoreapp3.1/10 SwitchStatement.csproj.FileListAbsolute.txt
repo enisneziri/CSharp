@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\bin\Debug\netcoreapp3.1\10 SwitchStatement.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\bin\Debug\netcoreapp3.1\10 SwitchStatement.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\bin\Debug\netcoreapp3.1\10 SwitchStatement.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\bin\Debug\netcoreapp3.1\10 SwitchStatement.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\bin\Debug\netcoreapp3.1\10 SwitchStatement.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\bin\Debug\netcoreapp3.1\10 SwitchStatement.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\obj\Debug\netcoreapp3.1\10 SwitchStatement.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\obj\Debug\netcoreapp3.1\10 SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\obj\Debug\netcoreapp3.1\10 SwitchStatement.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\obj\Debug\netcoreapp3.1\10 SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\obj\Debug\netcoreapp3.1\10 SwitchStatement.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\obj\Debug\netcoreapp3.1\10 SwitchStatement.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\10 SwitchStatement\10 SwitchStatement\obj\Debug\netcoreapp3.1\10 SwitchStatement.genruntimeconfig.cache
