@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\bin\Debug\netcoreapp3.1\Double.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\bin\Debug\netcoreapp3.1\Double.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\bin\Debug\netcoreapp3.1\Double.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\bin\Debug\netcoreapp3.1\Double.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\bin\Debug\netcoreapp3.1\Double.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\bin\Debug\netcoreapp3.1\Double.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\obj\Debug\netcoreapp3.1\Double.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\obj\Debug\netcoreapp3.1\Double.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\obj\Debug\netcoreapp3.1\Double.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\obj\Debug\netcoreapp3.1\Double.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\obj\Debug\netcoreapp3.1\Double.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\obj\Debug\netcoreapp3.1\Double.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\03 Double\Double\obj\Debug\netcoreapp3.1\Double.genruntimeconfig.cache
