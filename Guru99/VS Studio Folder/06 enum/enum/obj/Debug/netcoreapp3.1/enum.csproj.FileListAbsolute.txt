@@ -1,0 +1,8 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\enum\enum\obj\Debug\netcoreapp3.1\enum.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\enum\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\enum\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\enum\enum\obj\Debug\netcoreapp3.1\enum.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\06 enum\enum\obj\Debug\netcoreapp3.1\enum.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\06 enum\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\06 enum\enum\obj\Debug\netcoreapp3.1\enum.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\06 enum\enum\obj\Debug\netcoreapp3.1\enum.csproj.CoreCompileInputs.cache
