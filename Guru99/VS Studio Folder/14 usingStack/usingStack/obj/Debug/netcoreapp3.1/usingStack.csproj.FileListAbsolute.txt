@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\bin\Debug\netcoreapp3.1\usingStack.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\bin\Debug\netcoreapp3.1\usingStack.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\bin\Debug\netcoreapp3.1\usingStack.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\bin\Debug\netcoreapp3.1\usingStack.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\bin\Debug\netcoreapp3.1\usingStack.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\bin\Debug\netcoreapp3.1\usingStack.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\obj\Debug\netcoreapp3.1\usingStack.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\obj\Debug\netcoreapp3.1\usingStack.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\obj\Debug\netcoreapp3.1\usingStack.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\obj\Debug\netcoreapp3.1\usingStack.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\obj\Debug\netcoreapp3.1\usingStack.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\obj\Debug\netcoreapp3.1\usingStack.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\usingStack\usingStack\obj\Debug\netcoreapp3.1\usingStack.genruntimeconfig.cache

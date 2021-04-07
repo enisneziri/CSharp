@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\bin\Debug\netcoreapp3.1\15 popingStack.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\bin\Debug\netcoreapp3.1\15 popingStack.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\bin\Debug\netcoreapp3.1\15 popingStack.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\bin\Debug\netcoreapp3.1\15 popingStack.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\bin\Debug\netcoreapp3.1\15 popingStack.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\bin\Debug\netcoreapp3.1\15 popingStack.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\obj\Debug\netcoreapp3.1\15 popingStack.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\obj\Debug\netcoreapp3.1\15 popingStack.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\obj\Debug\netcoreapp3.1\15 popingStack.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\obj\Debug\netcoreapp3.1\15 popingStack.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\obj\Debug\netcoreapp3.1\15 popingStack.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\obj\Debug\netcoreapp3.1\15 popingStack.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\Vs Studio Projects\15 popingStack\15 popingStack\obj\Debug\netcoreapp3.1\15 popingStack.genruntimeconfig.cache

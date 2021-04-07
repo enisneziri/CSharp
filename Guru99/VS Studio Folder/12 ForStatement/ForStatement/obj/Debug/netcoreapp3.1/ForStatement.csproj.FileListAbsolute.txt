@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\bin\Debug\netcoreapp3.1\ForStatement.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\bin\Debug\netcoreapp3.1\ForStatement.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\bin\Debug\netcoreapp3.1\ForStatement.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\bin\Debug\netcoreapp3.1\ForStatement.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\bin\Debug\netcoreapp3.1\ForStatement.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\bin\Debug\netcoreapp3.1\ForStatement.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\obj\Debug\netcoreapp3.1\ForStatement.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\obj\Debug\netcoreapp3.1\ForStatement.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\obj\Debug\netcoreapp3.1\ForStatement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\obj\Debug\netcoreapp3.1\ForStatement.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\obj\Debug\netcoreapp3.1\ForStatement.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\obj\Debug\netcoreapp3.1\ForStatement.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\ForStatement\ForStatement\obj\Debug\netcoreapp3.1\ForStatement.csprojAssemblyReference.cache

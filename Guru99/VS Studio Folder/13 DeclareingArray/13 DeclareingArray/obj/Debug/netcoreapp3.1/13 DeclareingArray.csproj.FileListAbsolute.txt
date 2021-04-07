@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\bin\Debug\netcoreapp3.1\13 DeclareingArray.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\bin\Debug\netcoreapp3.1\13 DeclareingArray.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\bin\Debug\netcoreapp3.1\13 DeclareingArray.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\bin\Debug\netcoreapp3.1\13 DeclareingArray.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\bin\Debug\netcoreapp3.1\13 DeclareingArray.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\bin\Debug\netcoreapp3.1\13 DeclareingArray.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\obj\Debug\netcoreapp3.1\13 DeclareingArray.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\obj\Debug\netcoreapp3.1\13 DeclareingArray.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\obj\Debug\netcoreapp3.1\13 DeclareingArray.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\obj\Debug\netcoreapp3.1\13 DeclareingArray.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\obj\Debug\netcoreapp3.1\13 DeclareingArray.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\obj\Debug\netcoreapp3.1\13 DeclareingArray.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\Guru99\13 DeclareingArray\13 DeclareingArray\obj\Debug\netcoreapp3.1\13 DeclareingArray.genruntimeconfig.cache
