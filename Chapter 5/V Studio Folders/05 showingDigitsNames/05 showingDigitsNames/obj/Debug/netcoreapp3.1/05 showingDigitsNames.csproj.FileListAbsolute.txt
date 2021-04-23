@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\bin\Debug\netcoreapp3.1\05 showingDigitsNames.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\bin\Debug\netcoreapp3.1\05 showingDigitsNames.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\bin\Debug\netcoreapp3.1\05 showingDigitsNames.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\bin\Debug\netcoreapp3.1\05 showingDigitsNames.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\bin\Debug\netcoreapp3.1\05 showingDigitsNames.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\bin\Debug\netcoreapp3.1\05 showingDigitsNames.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\obj\Debug\netcoreapp3.1\05 showingDigitsNames.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\obj\Debug\netcoreapp3.1\05 showingDigitsNames.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\obj\Debug\netcoreapp3.1\05 showingDigitsNames.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\obj\Debug\netcoreapp3.1\05 showingDigitsNames.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\obj\Debug\netcoreapp3.1\05 showingDigitsNames.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\obj\Debug\netcoreapp3.1\05 showingDigitsNames.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\05 showingDigitsNames\05 showingDigitsNames\obj\Debug\netcoreapp3.1\05 showingDigitsNames.genruntimeconfig.cache
