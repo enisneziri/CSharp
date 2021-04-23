@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\bin\Debug\netcoreapp3.1\01 greaterSwitchV.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\bin\Debug\netcoreapp3.1\01 greaterSwitchV.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\bin\Debug\netcoreapp3.1\01 greaterSwitchV.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\bin\Debug\netcoreapp3.1\01 greaterSwitchV.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\bin\Debug\netcoreapp3.1\01 greaterSwitchV.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\bin\Debug\netcoreapp3.1\01 greaterSwitchV.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\obj\Debug\netcoreapp3.1\01 greaterSwitchV.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\obj\Debug\netcoreapp3.1\01 greaterSwitchV.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\obj\Debug\netcoreapp3.1\01 greaterSwitchV.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\obj\Debug\netcoreapp3.1\01 greaterSwitchV.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\obj\Debug\netcoreapp3.1\01 greaterSwitchV.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\obj\Debug\netcoreapp3.1\01 greaterSwitchV.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 5\01 greaterSwitchV\01 greaterSwitchV\obj\Debug\netcoreapp3.1\01 greaterSwitchV.genruntimeconfig.cache
