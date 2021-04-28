@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 comBinatorics", "08 comBinatorics\08 comBinatorics.csproj", "{BAFCBAB6-3B2C-4B16-8A3B-6E747D797C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFCBAB6-3B2C-4B16-8A3B-6E747D797C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFCBAB6-3B2C-4B16-8A3B-6E747D797C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFCBAB6-3B2C-4B16-8A3B-6E747D797C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFCBAB6-3B2C-4B16-8A3B-6E747D797C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947C7455-7098-4824-B198-F98AE11E8645}
+	EndGlobalSection
+EndGlobal

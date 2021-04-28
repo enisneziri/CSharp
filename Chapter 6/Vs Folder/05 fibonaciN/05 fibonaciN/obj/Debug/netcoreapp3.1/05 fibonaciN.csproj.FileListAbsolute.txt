@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\bin\Debug\netcoreapp3.1\05 fibonaciN.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\bin\Debug\netcoreapp3.1\05 fibonaciN.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\bin\Debug\netcoreapp3.1\05 fibonaciN.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\bin\Debug\netcoreapp3.1\05 fibonaciN.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\bin\Debug\netcoreapp3.1\05 fibonaciN.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\bin\Debug\netcoreapp3.1\05 fibonaciN.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\obj\Debug\netcoreapp3.1\05 fibonaciN.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\obj\Debug\netcoreapp3.1\05 fibonaciN.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\obj\Debug\netcoreapp3.1\05 fibonaciN.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\obj\Debug\netcoreapp3.1\05 fibonaciN.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\obj\Debug\netcoreapp3.1\05 fibonaciN.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\05 fibonaciN\05 fibonaciN\obj\Debug\netcoreapp3.1\05 fibonaciN.genruntimeconfig.cache
