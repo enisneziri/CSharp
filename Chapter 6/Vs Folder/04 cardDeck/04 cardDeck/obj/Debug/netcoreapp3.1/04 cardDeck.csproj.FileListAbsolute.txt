@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\obj\Debug\netcoreapp3.1\04 cardDeck.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\obj\Debug\netcoreapp3.1\04 cardDeck.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\obj\Debug\netcoreapp3.1\04 cardDeck.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\obj\Debug\netcoreapp3.1\04 cardDeck.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\bin\Debug\netcoreapp3.1\04 cardDeck.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\bin\Debug\netcoreapp3.1\04 cardDeck.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\bin\Debug\netcoreapp3.1\04 cardDeck.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\bin\Debug\netcoreapp3.1\04 cardDeck.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\bin\Debug\netcoreapp3.1\04 cardDeck.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\bin\Debug\netcoreapp3.1\04 cardDeck.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\obj\Debug\netcoreapp3.1\04 cardDeck.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\obj\Debug\netcoreapp3.1\04 cardDeck.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\04 cardDeck\04 cardDeck\obj\Debug\netcoreapp3.1\04 cardDeck.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\bin\Debug\netcoreapp3.1\03 pritingStoL.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\bin\Debug\netcoreapp3.1\03 pritingStoL.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\bin\Debug\netcoreapp3.1\03 pritingStoL.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\bin\Debug\netcoreapp3.1\03 pritingStoL.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\bin\Debug\netcoreapp3.1\03 pritingStoL.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\bin\Debug\netcoreapp3.1\03 pritingStoL.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\obj\Debug\netcoreapp3.1\03 pritingStoL.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\obj\Debug\netcoreapp3.1\03 pritingStoL.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\obj\Debug\netcoreapp3.1\03 pritingStoL.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\obj\Debug\netcoreapp3.1\03 pritingStoL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\obj\Debug\netcoreapp3.1\03 pritingStoL.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\obj\Debug\netcoreapp3.1\03 pritingStoL.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\03 pritingStoL\03 pritingStoL\obj\Debug\netcoreapp3.1\03 pritingStoL.genruntimeconfig.cache

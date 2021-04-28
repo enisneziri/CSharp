@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\bin\Debug\netcoreapp3.1\01 writingNloop.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\bin\Debug\netcoreapp3.1\01 writingNloop.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\bin\Debug\netcoreapp3.1\01 writingNloop.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\bin\Debug\netcoreapp3.1\01 writingNloop.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\bin\Debug\netcoreapp3.1\01 writingNloop.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\bin\Debug\netcoreapp3.1\01 writingNloop.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\obj\Debug\netcoreapp3.1\01 writingNloop.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\obj\Debug\netcoreapp3.1\01 writingNloop.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\obj\Debug\netcoreapp3.1\01 writingNloop.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\obj\Debug\netcoreapp3.1\01 writingNloop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\obj\Debug\netcoreapp3.1\01 writingNloop.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\obj\Debug\netcoreapp3.1\01 writingNloop.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\01 writingNloop\01 writingNloop\obj\Debug\netcoreapp3.1\01 writingNloop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\bin\Debug\netcoreapp3.1\02 devisebleBy7.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\bin\Debug\netcoreapp3.1\02 devisebleBy7.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\bin\Debug\netcoreapp3.1\02 devisebleBy7.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\bin\Debug\netcoreapp3.1\02 devisebleBy7.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\bin\Debug\netcoreapp3.1\02 devisebleBy7.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\bin\Debug\netcoreapp3.1\02 devisebleBy7.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\obj\Debug\netcoreapp3.1\02 devisebleBy7.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\obj\Debug\netcoreapp3.1\02 devisebleBy7.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\obj\Debug\netcoreapp3.1\02 devisebleBy7.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\obj\Debug\netcoreapp3.1\02 devisebleBy7.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\obj\Debug\netcoreapp3.1\02 devisebleBy7.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\obj\Debug\netcoreapp3.1\02 devisebleBy7.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 6\VS Folder Projects\02 devisebleBy7\02 devisebleBy7\obj\Debug\netcoreapp3.1\02 devisebleBy7.genruntimeconfig.cache
