@@ -1,0 +1,13 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\bin\Debug\netcoreapp3.1\01 nestedLoop.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\bin\Debug\netcoreapp3.1\01 nestedLoop.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\bin\Debug\netcoreapp3.1\01 nestedLoop.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\bin\Debug\netcoreapp3.1\01 nestedLoop.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\bin\Debug\netcoreapp3.1\01 nestedLoop.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\bin\Debug\netcoreapp3.1\01 nestedLoop.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\obj\Debug\netcoreapp3.1\01 nestedLoop.csprojAssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\obj\Debug\netcoreapp3.1\01 nestedLoop.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\obj\Debug\netcoreapp3.1\01 nestedLoop.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\obj\Debug\netcoreapp3.1\01 nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\obj\Debug\netcoreapp3.1\01 nestedLoop.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\obj\Debug\netcoreapp3.1\01 nestedLoop.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Semestri II\02 Hyrje ne Struktura te te Dhenave\C#\Chapter 10\Vs Folder\01 nestedLoop\01 nestedLoop\obj\Debug\netcoreapp3.1\01 nestedLoop.genruntimeconfig.cache
